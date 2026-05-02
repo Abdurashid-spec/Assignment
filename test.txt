@@ -3,3 +3,4 @@ IT-104_globall
 hi python
 great
 nice
+bot
